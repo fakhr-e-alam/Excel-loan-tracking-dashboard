@@ -48,4 +48,8 @@ Generated a pivot chart breaking down the total number and value of loans by pro
 •	Chart 3: Client Feedback Sentiment
 Analyzed and categorized client remarks into Positive and Negative sentiments. A chart was created to reflect the proportion of positive versus negative feedback, offering insights into customer satisfaction.
 
+## dashboard image
+![Screenshot (69)](https://github.com/user-attachments/assets/cbe9f358-b9d0-4a65-97db-2d5454f76242)
+
+
 
